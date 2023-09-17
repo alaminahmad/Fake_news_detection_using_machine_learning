@@ -1,18 +1,6 @@
 
 # Fake News Detection Using Machine Learning: A Definitive Guide
 
-[](https://medium.com/@alaminahmad65653?source=post_page-----89344d99633d--------------------------------)
-
-![Alaminahmad](https://miro.medium.com/v2/resize:fill:88:88/0*V8N_6TuoBb_fYEOq)
-
-[Alaminahmad](https://medium.com/@alaminahmad65653?source=post_page-----89344d99633d--------------------------------)
-
-3 min read
-
-·
-
-Just now
-
 ![](https://miro.medium.com/v2/resize:fit:274/1*DPo2mjlNaEQipdQyDBM9tg.jpeg)
 
 In an era where information spreads at the speed of light, the importance of discerning truth from falsehood has never been more critical. The proliferation of fake news has led to misinformation and societal division. To combat this, we present a comprehensive guide to Fake News Detection using Machine Learning, an innovative approach that harnesses the power of data science and artificial intelligence to separate fact from fiction.
